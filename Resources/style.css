@@ -1,0 +1,62 @@
+html {
+    width: 100%;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    color: white;
+    width: 100%;
+    text-align: center;
+    margin: 0;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: normal;
+    text-align: center;
+    display: inline-block;
+    padding: 0 auto;
+    
+   }
+
+h2 {
+    font-size: 42px;
+    font-weight: 300;
+}
+
+h3 {
+    font-size: 21px;
+    font-weight: normal;
+    color: gray;
+}
+
+a {
+    font-size: 16px;
+    color: aquamarine;
+    text-decoration:;
+}
+
+header {
+    width: 100%;
+}
+
+.link {
+    padding-top: 10px;
+}
+
+.video {
+    padding-top: 20px;  
+}
+
+.bottom-section {
+    padding-top: 20px;
+}
+
+footer {
+    text-align: right;
+    position: relative;
+    right: 100px;
+}
